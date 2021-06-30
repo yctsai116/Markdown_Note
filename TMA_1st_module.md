@@ -61,3 +61,5 @@ C:\Users\YOUR_NAME\django4B03> django4B03_venv\Scripts\activate
 >>> django.VERSION
 (1, 8, 6, 'final, 0')
 ```
+
+reference: https://djangogirlstaipei.gitbooks.io/django-girls-taipei-tutorial/content/
